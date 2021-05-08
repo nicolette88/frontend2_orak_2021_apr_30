@@ -1,15 +1,15 @@
 // Objektumorientált programozás
 
-
-const Cat = function (name) {
-  return {
-    name: name,
-    legsCount: 4,
-    purr: function () {
-      console.log('miau');
-    }
-  }
-};
+// függvénnyel is lehet csinálni class-t
+// const Cat = function (name) {
+//   return {
+//     name: name,
+//     legsCount: 4,
+//     purr: function () {
+//       console.log('miau');
+//     }
+//   }
+// };
 
 
 
